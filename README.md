@@ -1,2 +1,2 @@
-# RecipeBook
-A simple web application to add recipes. 
+# Klick-Genesis
+Monolith klick for heroku
